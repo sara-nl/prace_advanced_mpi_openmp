@@ -8,4 +8,4 @@ You can find hands-on examples and solutions following these links:
 - MPI topologies and domain decomposition: https://github.com/sara-nl/prace_topologies
 
 The main branch of every repository contains the original "dummy" code. The additional branches are named by days and correspond 
-o the final state of the code achieved on a particular day.
+to the final state of the code achieved on a particular day.
