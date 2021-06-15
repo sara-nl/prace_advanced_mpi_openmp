@@ -1,5 +1,6 @@
 # About
-This repository contains slides for the "MPI and OpenMP in Scientific Software Development" course given at SURF (09-11.06.2021).
+This repository contains slides for the 3-day course "MPI and OpenMP in Scientific Software Development", given at SURF in 09-11.06.2021.
+The slides of the invited spikers can be foun. in the `invited_talks` folder.
 
 # Links
 You can find hands-on examples and solutions following these links:
