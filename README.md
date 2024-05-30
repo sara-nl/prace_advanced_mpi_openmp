@@ -8,5 +8,5 @@ You can find practical examples and solutions in the following repositories:
 - Jacobi solver: https://github.com/sara-nl/prace_jacobi
 - MPI topologies and domain decomposition: https://github.com/sara-nl/prace_topologies
 
-The main branch of every repository contains the original "tamplate" code. The additional branches are named by days and correspond 
+The main branch of every repository contains the original "template" code. The additional branches are named by days and correspond 
 to the final state of the code achieved on a particular day.
